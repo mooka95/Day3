@@ -1,0 +1,11 @@
+
+
+  .cover img{
+
+   border-style: solid;
+   
+  }
+h1{
+    display: flex;
+    justify-content: center;
+}
